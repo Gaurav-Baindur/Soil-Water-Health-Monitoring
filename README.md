@@ -5,3 +5,5 @@ Software : Atmel Studio 7 / Arduino IDE, ThingSpeak
 Future developments : IOT + ML, Dissolved O2 meter and No2 meter if available
 Applications : Water quality testing
                Soil quality testing
+               
+ThingSpeak Channel : https://thingspeak.com/channels/733911/
